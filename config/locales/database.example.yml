@@ -1,0 +1,8 @@
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: deploytest_production
+  pool: 5
+  host: localhost
+  username: DB_USER
+  password: DB_PASSWORD
